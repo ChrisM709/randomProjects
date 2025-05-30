@@ -3,7 +3,6 @@
 Convert pasted or typed text into a PDF file via the command line.
 
 ![PyPI](https://img.shields.io/pypi/v/your-package)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.6%2B-green)
 
 
@@ -74,7 +73,3 @@ Paste or type your text. To finish, type 'EOF' (End-Of-File) on a new line and p
 ├── README.md
 └── simple_pdf_generator.py
 ```
-
-## License
-
-MIT © your name
